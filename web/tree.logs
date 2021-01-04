@@ -1,0 +1,22 @@
+.
+├── app
+│   ├── admin_routes.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── admin_routes.cpython-36.pyc
+│   │   ├── __init__.cpython-36.pyc
+│   │   └── routes.cpython-36.pyc
+│   ├── routes.py
+│   └── templates
+│       ├── admin
+│       │   └── dashboard.html
+│       └── public
+│           └── index.html
+├── flask_run.sh
+├── __pycache__
+│   └── run.cpython-36.pyc
+├── requirements.txt
+├── run.py
+└── tree.logs
+
+6 directories, 13 files
